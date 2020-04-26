@@ -22,6 +22,7 @@ What things you need:
  * Qt 5.6 or higher (core, gui, widgets, network)
  * qmake or cmake
  * doxygen (optional)
+ * pre-commits (optional) https://pre-commit.com/
 
 ### Installing
 
@@ -51,7 +52,8 @@ doxygen
 
 ### Demo
 
-Please use demo example to see all QGeoView features:
+You can see here small video: [QGeoView Demo](https://youtu.be/t0D21r_s-8E)
+or use demo example to see all QGeoView features:
 
 ```
 <build-dir>/qgeoview-demo
@@ -67,6 +69,6 @@ QGeoView uses [SemVer](http://semver.org/) for versioning. For the versions avai
 
 ## License
 
-This project is licensed under the [GPL License](http://www.gnu.org/licenses/).
+This project is licensed under the [LGPL License v3](http://www.gnu.org/licenses/).
 
 Please contact the author if you need development with closed source.
